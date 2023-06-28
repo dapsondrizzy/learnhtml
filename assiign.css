@@ -1,0 +1,100 @@
+body{
+    background-image:url(images/heroes.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    color: white;
+    max-width: fit-content;
+    
+    
+    
+    
+}
+.l1{
+    position: relative;
+    right: -61px;
+
+
+}
+.l2{
+    position: relative;
+    
+    left: 1203px;
+    letter-spacing: -1px;
+}
+
+.left{
+    /* display: flex; */
+    /* justify-content:space-around; */
+    display: flex;
+     /* gap:999px;  */
+    list-style: none;
+    font-size: 32px;
+    
+}
+.bottom{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing : -1px;
+    font-size:70px ;
+    
+    
+}
+
+.meal{
+    position:absolute; 
+    /* display: flex; */
+    /* justify-content:space-between; */
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    left: 109px;
+    top: 49px; 
+    
+    
+    /* gap: 150px; */
+}
+.m2{
+    position: relative; 
+    /* display: flex; */
+    /* justify-content:space-between; */
+    
+    left: 109px;
+    top: 59px; 
+    
+}
+.m3{
+    position: relative; 
+    /* display: flex; */
+    /* justify-content:space-between; */
+    
+    left: 109px;
+    top: -25px;  
+}
+
+.sec1{
+    position: relative; 
+    /* display: flex; */
+    /* justify-content:space-between; */
+    font-size: 24px;
+    left: 109px;
+     top: -65px; 
+}
+
+
+.p1{
+   top: 5px; 
+}
+.p2{
+top: 120px;
+}
+
+.btn{
+    position: relative;
+    left: 109px;
+    top: -21px;
+    border: none;
+    border-radius: 7px;
+    background-color: gold;
+    height: 60px;
+    width: 190px;
+    color: white;
+    font-size: 16px;
+}
